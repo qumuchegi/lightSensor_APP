@@ -1,0 +1,37 @@
+#button{
+    background-color: rgb(59, 174, 194);
+    margin-top:10%;
+    padding: 2% 10% 2% 10%;
+    color:white;
+    font-size: 200%;
+    box-shadow: 3px 4px 3px rgb(60, 12, 122);
+    text-align: center;
+}
+#button:hover{
+    color:rgb(117, 45, 150)
+}
+#result{
+    border-style: inset
+}
+#light{
+    color:rgb(16, 145, 102)
+}
+p{
+    font-size: 200%;
+    text-align: center;
+    color:rgb(59, 174, 194)
+}
+h4{
+    color:rgba(121,123,112);
+    text-align: center
+}
+h3{
+    margin-top: 20%;
+    text-align: center
+}
+h3#on{
+    color:rgb(212, 22, 22)
+}
+h3#off{
+    color:rgb(24, 168, 175)
+}
