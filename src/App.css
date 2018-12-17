@@ -1,3 +1,6 @@
+#button-container{
+    margin-top:20%
+}
 #button{
     background-color: rgb(59, 174, 194);
     margin-top:10%;
@@ -12,6 +15,10 @@
 }
 #result{
     border-style: inset
+}
+#number{
+    color:rgba(25,168,179);
+    text-align: center
 }
 #light{
     color:rgb(16, 145, 102)
